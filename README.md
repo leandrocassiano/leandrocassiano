@@ -1,9 +1,9 @@
-### Olá! Eu sou o Leandro Cassiano 
+### Olá! Eu sou o Leandro Cassiano. 
 
 
-- 🔭 Não estou trabalhando no momento, estou estudando para ter minha primeira oportunidade como programador.<br>
+- 💾 Não estou trabalhando no momento, estou estudando para ter minha primeira oportunidade como programador.<br>
 
-- 🌱 Estou estudando Data Science através do programa do Grupo Boticário - Desenvolve 2022.<br>
+- 🔎 Estou estudando Data Science através do programa do Grupo Boticário - Desenvolve 2022.<br>
 
 <div align="center">
   
