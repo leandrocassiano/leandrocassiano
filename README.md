@@ -19,10 +19,9 @@
   <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
   <img align="center" alt="L-PyCharm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
   <img align="center" alt="L-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align='right' height="90" style="border-radius:50px;" src="https://c.tenor.com/IqNYjIsNUOkAAAAC/cat-i-need-coffee.gif">
+  <img align='right' height="90" src="https://c.tenor.com/IqNYjIsNUOkAAAAC/cat-i-need-coffee.gif">
      
 </div><br>
-  
   
   
 <div> 
